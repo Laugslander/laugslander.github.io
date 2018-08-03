@@ -13,3 +13,5 @@ instagram_url: https://instagram.com/Laugslander
 
 # Build settings
 markdown: kramdown
+plugins:
+- jekyll-sitemap

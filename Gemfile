@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
+# Jekyll plugins
+group :jekyll_plugins do
+  gem 'jekyll-sitemap', "~> 1.2"
+end
+
 # GitHub Pages support
 gem "github-pages", group: :jekyll_plugins
 
