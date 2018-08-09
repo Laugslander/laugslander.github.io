@@ -10,7 +10,8 @@
 
         <footer id="footer">
             <div class="copyright">
-                &copy; {{ site.title }} | {{ site.email }}
+                &copy; {{ site.title }} {{ 'now' | date: "%Y" }} |
+                <a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a>
             </div>
         </footer>
     </div>
