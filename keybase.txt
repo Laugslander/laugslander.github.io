@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/laugslander
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://robinlaugs.nl
+  * I am laugslander (https://keybase.io/laugslander) on keybase.
+  * I have a public key with fingerprint 7057 BC83 882E ADB6 3064  8043 23D1 1635 249A 2009
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f10e54f58130bc74699cacafa2c894c9f237605cadc9b07b45ad749f866d5f190a",
+      "fingerprint": "7057bc83882eadb63064804323d11635249a2009",
+      "host": "keybase.io",
+      "key_id": "23d11635249a2009",
+      "kid": "0101f10e54f58130bc74699cacafa2c894c9f237605cadc9b07b45ad749f866d5f190a",
+      "uid": "8faa1b134e09a4f2eb98cdec91762819",
+      "username": "laugslander"
+    },
+    "service": {
+      "hostname": "robinlaugs.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1676714565,
+  "expire_in": 157680000,
+  "prev": "b01ad421e6f7c87d6adfe919106be69f739d1e65d5f97d58ff6363650b0abf53",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJrUFRlGF4uaiw6oZMpTax4MGpqxe/sua+GyiVlcgoKKIVcv3POd9Yj
+eM52dhdhiAZhoolLNl64REEybDKjDDgCFhcVYrQUZbDxkoFipSNLpSlBkVrnMPav
+n33fj2/e732e533ed97+eUEmc0DU0JPUso8jQwLO9NZ6TcKdhsR8jFfFPMyej2Wh
+mQdli8jtcWTJImbHAA5wCQeIIiWKxQnACwxJc5wABShBm8BypMBJNoKhASVAUeB4
+wPAkBUWG5CSWpkVKwjkAMSsmyYoTaS5NVjy6LAMohhdYgmVtCIo8TQCaZAFJ2AgR
+x2mCspEctAHA6cStqttg6OZ46EYxsqr/6YFjxt5/4P9n394ZOVaCEOdxgkSAg6Rk
+QzzHCiISOJyhbSxu1PW6kabA7UhHZ0Ov050NFRFpWIEV0xM5soCM2RrNPAJpKi8r
+M8gYJVvnuzTVowpqtp7a6vG43HaD6slzGdgdiHc8UnHoLFGfpc7IQZpbVhXMjutI
+wSMbsjjN0AxOUjRlxVCuS9aQQzYQFEOzQD9GHZSjS/IAhyJpwxEtMQLLiDQUJcTh
+HA5oHtGcxBCcqCcpfRIcI1KsJNGEfinAA8hLFIEZfb2tqJid1G1Cpy7plp0K9Hg1
+hBX09WYGmwLMptmzAo0dM5lDwv7dvC+dj//tDbaPD3jNv522H5vezLX0btlmebVO
+qd/RS3wYLLCtsSHpA8X5Se3V/tcKFlZWnLzXHTvacrEuvoWzfH50JZ2Z3JVxIi+T
+/Ux7NrzKUfFMUC7R1eScF6ms8FtAyl9jjf3hyTdj1NCptbHfFlFaXdmc4uIXwyJO
+WD1qze/+1DD2RmYlGL/Y6CrFN5Tvl955iXw4PPGR/8eueFenMrzAv6UzujI0dv7y
+uCNLIu+/suvO4U+L2spHUpYfuHTVnKE8PXx+RWKaxX/oWsam6lk1OR18TfvSxez4
+m8KvY42brOeib4h0ylw4MFnYNh3ec/31wul1qYSvKXXVwnfH0uLXnx1YpmoW8+Gk
+zfHtp4IurQHdPd8V23bzzbmBF9J/aXj5i0/2JtzdnnF3Y9OSEm3b3PQHbzRQfVNd
+vlLnxGCf74e3RjesrF10SDZfS/sqK2Bnc+3ZBV/f7j5qDt0z25LQAwbzp/eceVih
+uprnnPc9UfLexL5jf1xt/WnKa1GE0s4Xqq+k5u0jGoaj4ibnD0+ufWo1vdvU89w3
+9UOPXU9qfT6BPOiNGhnz3v7+QGQnajvoGxXjTHsxz8lbVWiwoGOoPqKu/B5VdaSw
+IzfZ98HGVXUX3t/fXzrU+eDy0ivHsZvOkj+Lbv28aM3iU4GX+dOheFnhSPPxtPW7
+is/dL4qOEdlusWx1eGXizo6Idf8A9RDCVA==
+=Vej4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laugslander
+
+==================================================================
