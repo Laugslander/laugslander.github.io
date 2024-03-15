@@ -1,0 +1,4 @@
+Contact: https://robinlaugs.nl/#contact
+Expires: 2029-12-31T23:00:00.000Z
+Encryption: https://keybase.io/laugslander/pgp_keys.asc
+Preferred-Languages: en, nl
