@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Canonical: https://robinlaugs.nl/.well-known/security.txt
+Contact: https://robinlaugs.nl/#contact
+Expires: 2029-12-31T23:00:00.000Z
+Encryption: https://keybase.io/laugslander/pgp_keys.asc
+Preferred-Languages: en, nl
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEcFe8g4gurbYwZIBDI9EWNSSaIAkFAmX0nMkACgkQI9EWNSSa
+IAnJzw//daHvMVV3wOs4QtVnbb1Z5IOmSubt3zcTYb+FCret1pQrRQQZnqw5IZyt
+utjkmw4mS4H40w5GwfxEj+fZjSRlc1956h0jXezjBSqGTKezOGAhQSoIjbFg6naH
+bw1YSTB16esp1IlYh8NLhbf4pkn1zMtvJQ8oXFOGWgl3Ji65LG6dNxUBXUA9LSTM
+kBrBHXS8sIGrJuLBoSJtV8e76g6UPJdog6F3FX69oXhUDjEl4ns9asx3s10Hr59A
+q3hZjdVaNeJydNQyprcI81hyGsketMAMdYUZGro3Ayd+xgV0BO72A0L973pgF5yB
+/69fi0S5al+/QLFN4zVOtp9Zk55+QVXpZPyUmbdZSCHIanQzLXZky/lQPdODA/4t
+fhv6ARz6kIYDlMiQ3sMZE+3Ryk2JR3bg/hksqIQs7t+9bCk/o7866xJYhhWdmTmm
+6LNRbNxfmm6xmPHnirDcCGbzSonaVydcXq3JmBY9vVuEiMFkjLJZoZhft/YOyTtD
+xEs0Wv7JOM/bH3zk7lWVhenmckVVNye4u4CvV2MUEqe+oO/HVZs7q3WxrAG4ja8v
+M5/HapAGILjhfE2HuvLFJ7+MNmyalva4KiaQsym74tHhUgrljYfVbBlvf75uOH3H
+/bX+0AQsaHmWukcpEdn/juV6p6Bo4xfdfnddDfqBRQ2lBtQ2GUw=
+=E6MF
+-----END PGP SIGNATURE-----
