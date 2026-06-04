@@ -1299,9 +1299,10 @@ html {
 }
 
 body {
-    background-image: url("images/overlay.png"), url("images/background.jpg");
+    background-color: #e6edd6;
+    background-image: url("images/overlay.png"), linear-gradient(135deg, #eef4e3 0%, #cfd9a7 50%, #9fae5a 100%);
     background-repeat: repeat, no-repeat;
-    background-size: auto, 100% 100%;
+    background-size: auto, cover;
     background-attachment: fixed;
     overflow-y: scroll;
 }
